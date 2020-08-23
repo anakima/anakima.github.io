@@ -66,4 +66,4 @@ While managing outfits, I ran into a different problem as well: "How do I add an
 
 So this is the way I'm currently managing my inventory and outfits. With categorization and a bit of visualization. I already see that I probably need to start taking pictures of different clothing items (like rings and jewelery) so I can speed up the building process of outfits. E.g.: Finding matching shoes for a new dress. But I'm procrastinating that as it sounds like a lot of work again.
 
-Do you have any good tipps and tricks for outfit and inventory management? I'd love to hear them! You can write me inworld or <a href="https://my.secondlife.com/anakima">leave a comment on my SL page</a>.
+Do you have any good tipps and tricks for outfit and inventory management? I'd love to hear them! You can write me inworld or <a href="https://my.secondlife.com/anakima/snapshots/5f424e6ad774f810ac41162e">leave a comment on my SL page</a>.
